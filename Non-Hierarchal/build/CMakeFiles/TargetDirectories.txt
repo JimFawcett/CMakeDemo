@@ -1,4 +1,0 @@
-C:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build/CMakeFiles/HelloCMake.dir
-C:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build/CMakeFiles/HelloCMakeLib.dir
-C:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build/CMakeFiles/ALL_BUILD.dir
-C:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,2 +1,0 @@
-C:\github\JimFawcett\CMakeDemo\Non-Hierarchal\build\Debug\HelloCMakeLib.pdb
-C:\github\JimFawcett\CMakeDemo\Non-Hierarchal\build\HelloCMakeLib.dir\Debug\HelloCMakeLib.pdb
