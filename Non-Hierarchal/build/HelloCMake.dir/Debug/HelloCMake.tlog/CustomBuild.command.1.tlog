@@ -1,0 +1,10 @@
+^C:\GITHUB\JIMFAWCETT\CMAKEDEMO\NON-HIERARCHAL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/github/JimFawcett/CMakeDemo/Non-Hierarchal -BC:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build --check-stamp-file C:/github/JimFawcett/CMakeDemo/Non-Hierarchal/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
