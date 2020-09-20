@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include "helper.h"
-#include "hello_lib/hello_lib.h"
+#include "../libs/hello_lib/hello_lib.h"
 
 auto putl = [] { std::cout << "\n"; };
 
